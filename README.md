@@ -1,3 +1,4 @@
+![logo](https://github.com/Codebeginneryt/Codebeginneryt/blob/main/git.gif)
 <h1 align="center">Hi 👋, I'm Rohit Kumar Gola</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
